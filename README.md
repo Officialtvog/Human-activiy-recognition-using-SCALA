@@ -1,1 +1,1 @@
-# Human-activiy-recognition-using-SCALA
+# Human-activity-recognition-using-SCALA
